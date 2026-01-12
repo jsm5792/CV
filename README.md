@@ -13,7 +13,8 @@
       </p>
       <p>
         <strong>Contact:</strong> <a href="mailto:jsm5792@snu.ac.kr">jsm5792@snu.ac.kr</a><br>
-        <strong>Links:</strong> <a href="https://github.com/jsm5792">GitHub</a>
+        <strong>Links:</strong> <a href="assets/pdf/Sungmin_Jeon_CV.pdf" target="_blank">CV</a> · <a href="https://github.com/jsm5792">GitHub</a>
+      </p>
       </p>
     </td>
   </tr>
@@ -32,7 +33,6 @@ Previously, I worked as an undergraduate intern at the **Networked Computing Lab
 * **Seoul National University**, Seoul, Korea (Mar 2020 – Present)
     * B.S. in Rural Systems Engineering
     * Interdisciplinary Major in Artificial Intelligence
-    * Minor in Electrical & Computer Engineering
 * **Daejeon Science High School for the Gifted**, Daejeon, Korea (Mar 2017 – Feb 2020)
 
 ---
