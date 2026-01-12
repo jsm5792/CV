@@ -13,7 +13,7 @@
       </p>
       <p>
         <strong>Contact:</strong> <a href="mailto:jsm5792@snu.ac.kr">jsm5792@snu.ac.kr</a><br>
-        <strong>Links:</strong> <a href="assets/pdf/CV_Sungmin JEON.pdf" target="_blank">CV</a> · <a href="https://github.com/jsm5792">GitHub</a>
+        <strong>Links:</strong> <a href="assets/pdf/CV_Sungmin_JEON.pdf" target="_blank" rel="noopener noreferrer">CV</a> · <a href="https://github.com/jsm5792">GitHub</a>
       </p>
       </p>
     </td>
