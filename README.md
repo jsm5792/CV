@@ -30,7 +30,7 @@ Previously, I worked as an undergraduate intern at the **Networked Computing Lab
 
 ### Education
 
-* **Seoul National University**, Seoul, Korea (Mar 2020 – Present)
+* **Seoul National University**, Seoul, Korea (Mar 2020 – Feb 2027(Expected))
     * B.S. in Rural Systems Engineering
     * Interdisciplinary Major in Artificial Intelligence
 * **Daejeon Science High School for the Gifted**, Daejeon, Korea (Mar 2017 – Feb 2020)
@@ -39,7 +39,7 @@ Previously, I worked as an undergraduate intern at the **Networked Computing Lab
 
 ### Research & Project Experience
 
-**Generative AI Image Editing Project**(https://github.com/jsm5792/DL-project/blob/main/DL_project_report.pdf) (Oct 2025 – Dec 2025)
+**Generative AI Image Editing Project**([Link](https://github.com/jsm5792/DL-project/blob/main/DL_project_report.pdf)) (Oct 2025 – Dec 2025)
 * Developed a semantic image editing pipeline using **Stable Diffusion** for precise concept replacement while maintaining background consistency.
 * Integrated **Textual Inversion with Null-text Inversion** and applied SLERP-based latent blending.
 
