@@ -39,10 +39,6 @@ Previously, I worked as an undergraduate intern at the **Networked Computing Lab
 
 ### Research & Project Experience
 
-**Networked Computing Lab** (Jul 2024 – Feb 2025)
-* *Undergraduate Intern*
-* Conducted research on **Binarizing models**, **Mobile Clustering**, and **Preemption on Mobile Edge GPUs**.
-
 **Generative AI Image Editing Project** (Oct 2025 – Dec 2025)
 * Developed a semantic image editing pipeline using **Stable Diffusion** for precise concept replacement while maintaining background consistency.
 * Integrated **Textual Inversion with Null-text Inversion** and applied SLERP-based latent blending.
@@ -50,6 +46,10 @@ Previously, I worked as an undergraduate intern at the **Networked Computing Lab
 **Quantum AI Contest Project** (Jul 2025 – Aug 2025)
 * **1st Place Winner**
 * Developed a hybrid AI model for FashionMNIST classification and verified Renyi entropy estimation using **quantum circuits** and **classical shadow** techniques.
+
+**Networked Computing Lab** (Jul 2024 – Feb 2025)
+* *Undergraduate Intern*
+* Conducted research on **Binarizing models**, **Mobile Clustering**, and **Preemption on Mobile Edge GPUs**.
 
 **Multiphysics Structure & Systems Engineering Lab** (Dec 2023 – Mar 2024)
 * *Undergraduate Intern*
