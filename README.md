@@ -22,8 +22,6 @@
 
 I am an undergraduate student at **Seoul National University**, majoring in **Rural Systems Engineering** with an interdisciplinary major in **Artificial Intelligence** and a minor in **Electrical & Computer Engineering**.
 
-My research interests lie in **Computer Vision, Generative AI, and Efficient Computing**. Specifically, I am interested in developing efficient models for mobile/edge devices and applying generative models (Stable Diffusion) for precise image editing.
-
 Previously, I worked as an undergraduate intern at the **Networked Computing Lab**, studying model binarization and mobile clustering. I also have experience in quantum computing, having implemented Renyi entropy estimation using classical shadow, which led to winning 1st place in the Quantum AI Contest.
 
 ---
