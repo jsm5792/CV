@@ -7,7 +7,7 @@
       <h1>Sung Min Jeon (전성민)</h1>
       <p>
         <strong>Undergraduate Student</strong><br>
-        Department of Rural Systems Engineering / Interdisciplinary Major in Artificial Intelligence<br>
+        Department of Rural Systems Engineering / Interdisciplinary Major in Artificial Intelligence<br> 
         Seoul National University (SNU)<br>
         Seoul, Korea
       </p>
